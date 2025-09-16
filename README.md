@@ -20,17 +20,6 @@
 
 ---
 
-## GitHub Stats
-<h3 align="center">Hi, I'm Tomisin Ajayi (Formerly Bamidele) 👋</h3>
-<h2 align="center">Data Analyst</h2>
-
----
-
-## What I Do
-Transform data into strategy through **analytics, cloud solutions, and BI dashboards**.  
-
----
-
 ## Tech Stack  
 
 <p align="center">
