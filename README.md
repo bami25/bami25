@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 </p> 
 
