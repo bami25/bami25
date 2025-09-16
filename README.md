@@ -20,26 +20,6 @@
 
 ---
 
-## Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-</p> 
-
----
-
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bami25&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
