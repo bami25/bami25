@@ -40,9 +40,3 @@
 
 
 ---
-
-## Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/tomisin-225aa819a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
-</p>
