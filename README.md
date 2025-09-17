@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Tomisin a Data analyst</h1>
+<h3 align="center">I work with businesses that want to make effective use of their data; from the first ideas around what you want to measure and how to capture data accurately, through data preparation, analysis and management, all the way to impactful presentation of insights. I can support each step of the process to enable your organization in making evidence-driven decisions or share insights with stakeholders.</h3>
 
 ## Tech Stack  
 
