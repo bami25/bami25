@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="your-banner-image.png" alt="Banner" width="100%"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Tomisin</h1>
-<h3 align="center">Data Analyst | Data Engineering Enthusiast | Digital Transformation Advocate</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">
   Helping businesses transform data into <b>clarity, strategy, and growth</b>.
