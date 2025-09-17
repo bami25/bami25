@@ -1,5 +1,15 @@
-<h1 align="center">Hi, I'm Tomisin a Data analyst</h1>
-<h3 align="center">I work with businesses that want to make effective use of their data; from the first ideas around what you want to measure and how to capture data accurately, through data preparation, analysis and management, all the way to impactful presentation of insights. I can support each step of the process to enable your organization in making evidence-driven decisions or share insights with stakeholders.</h3>
+<p align="center">
+  <img src="your-banner-image.png" alt="Banner" width="100%"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Tomisin</h1>
+<h3 align="center">Data Analyst | Data Engineering Enthusiast | Digital Transformation Advocate</h3>
+
+<p align="center">
+  Helping businesses transform data into <b>clarity, strategy, and growth</b>.
+</p>
+
+---
 
 ## Tech Stack  
 
@@ -17,11 +27,12 @@
   <img src="https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-</p> 
+</p>
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bami25&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/streak?user=bami25&theme=tokyonight&hide_border=true" height="160"/>
@@ -33,11 +44,9 @@
 
 ---
 
-## Let's Connect
+## Let's Connect  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tomisin-225aa819a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
 </p>
-
-
----
