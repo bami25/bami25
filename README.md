@@ -36,10 +36,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bami25&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bami25&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
-</p>
-
 ---
 
 ## Let's Connect  
