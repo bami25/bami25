@@ -32,8 +32,8 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bami25&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/streak?user=bami25&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bami25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bami25&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
