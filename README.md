@@ -4,7 +4,7 @@
 <h3 align="center">Data Analyst</h3>
 
 <p align="center">
-  Helping businesses transform data into <b>clarity, strategy, and growth</b>.
+  Helping businesses transform data into <b>strategy, and growth</b>.
 </p>
 
 ---
