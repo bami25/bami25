@@ -1,46 +1,17 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Tomisin
-</h1>
-<h3 align="center">Data Analyst</h3> https://github.com/tomisi
+<h1 align="center">Hello, I'm Tomisin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  Helping businesses transform data into <b>strategy, and growth</b>.
-</p>
 
----
+🚀 A self-starter with a passion for data storytelling, creative visualization, and designing scalable systems. Looking forward to uncovering actionable, data-driven insights that make a real impact.
 
-## Tech Stack  
+💬 Open to learning from other professionals and collaborating on innovative, data-focused projects.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-</p>
+📫 Feel free to reach out to me at bamideletomisiin@gmail.com
+
+🙋‍♀️ Let's Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bami25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bami25&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## Let's Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tomisin-225aa819a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+	<a href="mailto:bamideletomisiin@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/tomisi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/tomisin-b-225aa819a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
