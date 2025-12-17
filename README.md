@@ -18,6 +18,7 @@ and designing scalable systems. I enjoy turning complex data into clear, actiona
 
 <br/>
 
+<hr/>
 <p>
 <em>
 Previously worked under this 
@@ -25,8 +26,6 @@ Previously worked under this
 Projects here are new or continued iterations of work from that account.
 </em>
 </p>
-
-<hr/>
 
 <h3 align="center">Let’s connect</h3>
 
