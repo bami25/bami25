@@ -8,15 +8,12 @@
 
 📫 Feel free to reach out to me at bamideletomisiin@gmail.com
 
-### 🔐 Note on Previous GitHub Account
-
 <p align="center">
-I previously worked under this GitHub account, which is currently inaccessible due to a lost 2FA device:
+<strong>Note:</strong> I previously worked under this 
+<a href="https://github.com/tomisi"><strong>GitHub account</strong></a>, which is currently inaccessible due to a lost 2FA device.  
+Projects here are either new or continued iterations of work from that account.
 </p>
 
-<p align="center">
-🔗 <a href="https://github.com/tomisi"><strong>https://github.com/tomisi</strong></a>
-</p>
 
 🙋‍♀️ Let's Connect
 
