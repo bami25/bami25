@@ -22,7 +22,7 @@ and designing scalable systems. I enjoy turning complex data into clear, actiona
 <p>
 <em>
 Previously worked under this 
-<a href="https://github.com/tomisi"><strong>GitHub account</strong></a>, which is currently inaccessible due to a lost 2FA device.  
+<a href="https://github.com/tomisi">GitHub account</a>, which is currently inaccessible due to a lost 2FA device.  
 Projects here are new or continued iterations of work from that account.
 </em>
 </p>
