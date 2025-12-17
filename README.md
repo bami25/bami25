@@ -21,9 +21,10 @@ and designing scalable systems. I enjoy turning complex data into clear, actiona
 <hr/>
 <p>
 <em>
+  <h5>
 Previously worked under this 
 <a href="https://github.com/tomisi">GitHub account</a>, which is currently inaccessible due to a lost 2FA device.  
-Projects here are new or continued iterations of work from that account.
+Projects here are new or continued iterations of work from that account.</h5>
 </em>
 </p>
 
