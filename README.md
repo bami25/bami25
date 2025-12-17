@@ -28,9 +28,9 @@ Projects here are new or continued iterations of work from that account.
 
 <hr/>
 
-<h3>Let’s connect</h3>
+<h3 align="center">Let’s connect</h3>
 
-<p>
+<p align="center">
   <a href="mailto:bamideletomisiin@gmail.com">
     <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/>
   </a>
@@ -41,3 +41,4 @@ Projects here are new or continued iterations of work from that account.
     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
+
