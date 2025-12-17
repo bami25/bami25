@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Tomisin
 </h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst</h3> https://github.com/tomisi
 
 <p align="center">
   Helping businesses transform data into <b>strategy, and growth</b>.
