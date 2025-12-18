@@ -5,7 +5,7 @@
 
 <p>
 🚀 <strong>Data & Analytics Engineer</strong> with a passion for data storytelling, thoughtful visualisation, 
-and designing scalable systems. I enjoy turning complex data into clear, actionable insights that drive real impact.
+and designing scalable systems. I enjoy turning complex data into clear, actionable insights that drive real business impact.
 </p>
 
 <p>
