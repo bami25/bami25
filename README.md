@@ -14,7 +14,7 @@ I am a **Data Analyst and Analytics Engineer** working across product, growth, a
 - ✨ To know more about me, check out my [Website](https://tomisinajayi.com)
 - ✨ Fun fact: I'm probably automating something that took me 10 minutes to do manually
 
-**P/S:** I'm available for conversations and speaking engagement around Analytics Engineering, Automation, AI-powered systems, and Data 🚀
+**P/S:** I’m always open to conversations and speaking opportunities around Analytics Engineering, Automation, AI-powered systems, and Data.
 
 ---
 
