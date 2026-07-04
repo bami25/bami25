@@ -9,7 +9,7 @@ I am a **Data Analyst and Analytics Engineer** working across product, growth, a
 
 ✨ Founded ScalenTech, where I work on digital transformation, analytics, and automation projects for SMBs across Africa and Europe.
 
-✨ My Ethos:** Continuous growth · Ship over perfection · Collaboration
+✨ **My Ethos**: Continuous growth · Ship over perfection · Collaboration
 
 - ✨ To know more about me, check out my [Website](https://tomisinajayi.com)
 - ✨ Fun fact: I'm probably automating something that took me 10 minutes to do manually
