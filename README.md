@@ -3,23 +3,35 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-I am a Data Analyst and Analytics Engineer working across product, growth, and operations analytics. I build the pipelines, data models, and automations behind the insights — not just the reports on top. 📊
+I am a **Data Analyst and Analytics Engineer** working across product, growth, and operations analytics — building the pipelines, data models, and automations behind the insights, not just the reports on top. 📊
 
-✅ **In 2021:** I started my career in data during my Computer Science degree, and quickly realised I loved the *building* side of analytics as much as the analysis itself.
+🤖 I also build AI-powered apps and systems that automate analysis and help teams understand their users.
 
-✅ **In 2023:** I worked across BI, operations, and product analytics — from FMCG to tech media — and co-founded **Pilo Technologies** with my friends.
+⚡ In my spare time I vibe-code or build automations, depending on where my imagination takes me.
 
-✅ **In 2025:** I founded **ScalenTech**, helping African SMBs catch up with digital innovation, and went deep on automation — building AI-powered systems that don't just report on data, but act on it.
+🌍 Founded **ScalenTech**, where a small team and I help African SMBs catch up with digital innovation · Co-founded **Pilo Technologies** with my friends.
 
-✅ **In 2026:** Currently building growth intelligence tools and AI-powered apps, sharpening my analytics engineering craft (dbt, BigQuery, data modeling), and vibe-coding whatever my imagination takes me to. 🔥
-
-**Career Philosophy:** Growth, ship over perfection, and collaboration.
+🧭 **My Ethos:** Growth · Ship over perfection · Collaboration
 
 - 👩🏾‍💻 To know more about me, check out my [Website](https://tomisinajayi.com)
 - 😊 Pronouns: She/Her
 - ⚡ Fun fact: I'm probably automating something that took me 10 minutes to do manually
 
-**P/S:** I'm available for conversations around Analytics Engineering, Automation, AI-powered systems and Data 🚀
+**P/S:** I'm available for conversations around Analytics Engineering, Automation, AI-powered systems, and Data 🚀
+
+📫 **Contact:** [bamideletomisiin@gmail.com](mailto:bamideletomisiin@gmail.com)
+
+---
+
+### 🛠️ Stack
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
