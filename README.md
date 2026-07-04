@@ -5,9 +5,7 @@
 
 I am a **Data Analyst and Analytics Engineer** working across product, growth, and operations analytics. Building the pipelines, data models, and automations behind the insights, not just the reports on top. 📊
 
-🤖: I also build AI-powered apps and systems that automate analysis and help teams understand their users.
-
-⚡ In my spare time I vibe-code or build automations, depending on where my imagination takes me.
+🤖: I also build AI-powered tools and automations that help teams analyse data faster, understand user behaviour, and reduce repetitive manual work.
 
 🌍: Founded ScalenTech, where I work on digital transformation, analytics, and automation projects for SMBs across Africa and Europe.
 
