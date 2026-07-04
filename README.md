@@ -7,11 +7,11 @@ I am a **Data Analyst and Analytics Engineer** working across product, growth, a
 
 ✨ I also build AI-powered tools and automations that help teams analyse data faster, understand user behaviour, and reduce repetitive manual work.
 
-✨ Founded ScalenTech, where I work on digital transformation, analytics, and automation projects for SMBs across Africa and Europe.
+✨ I founded ScalenTech, where I work on digital transformation, analytics, and automation projects for SMBs across Africa and Europe.
 
 ✨ **My Ethos**: Continuous growth · Ship over perfection · Collaboration
 
-- ✨ To know more about me, check out my [Website](https://tomisinajayi.com)
+- ✨ Learn more about me - [Website](https://tomisinajayi.com)
 - ✨ Fun fact: I'm probably automating something that took me 10 minutes to do manually
 
 **P/S:** I’m always open to conversations and speaking opportunities around Analytics Engineering, Automation, AI-powered systems, and Data.
