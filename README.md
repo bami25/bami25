@@ -14,19 +14,7 @@ I am a **Data Analyst and Analytics Engineer** working across product, growth, a
 - ✨ To know more about me, check out my [Website](https://tomisinajayi.com)
 - ✨ Fun fact: I'm probably automating something that took me 10 minutes to do manually
 
-**P/S:** I'm available for conversations around Analytics Engineering, Automation, AI-powered systems, and Data 🚀
-
----
-
-### Stack
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+**P/S:** I'm available for conversations and speaking engagement around Analytics Engineering, Automation, AI-powered systems, and Data 🚀
 
 ---
 
